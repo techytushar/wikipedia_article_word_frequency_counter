@@ -1,0 +1,5 @@
+This script uses the basic python knowledge and some python modules - 
+1. Wikipedia - to get the article form wikipedia.
+2. Stop_words - to get a list of all stop words.
+3. Tabulate - to display the result in the form of a table.
+4. Operator 
